@@ -1,2 +1,3 @@
 Hello from Git Beginners
 Code push by Bala
+git commit -am "hello from ramu" file2.txt
